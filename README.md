@@ -14,7 +14,7 @@
 - 🔭 SpaceX FanBoi
 - 🎥 Cinema lover
 - 👨‍💻 All of my projects are available at [github](https://github.com/leobade)
-- 📫 How to reach me **leobade@hotmail.com** or ⬇️
+- 📫 How to reach me **leobade@hotmail.com**
 
 <br />
 
@@ -31,7 +31,6 @@
 <a href="https://instagram.com/leonardobadellino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leonardobadellino" height="30" width="40" /></a>
 </p>
 
-<br />
 
 ### Spotify Playing 🎧
 
